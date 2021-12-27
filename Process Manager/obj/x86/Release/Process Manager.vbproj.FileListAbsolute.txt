@@ -1,0 +1,20 @@
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\bin\Release\Process Manager.exe
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\bin\Release\Process Manager.pdb
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\bin\Release\Process Manager.xml
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\Process_Manager.Form1.resources
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\Process_Manager.Resources.resources
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\Process Manager.exe
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\Process Manager.xml
+C:\Documents and Settings\Galaxy Computer\Local Settings\Application Data\Temporary Projects\Process Manager\obj\x86\Release\Process Manager.pdb
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\bin\Release\Process Manager.exe
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\bin\Release\Process Manager.pdb
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\bin\Release\Process Manager.xml
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\obj\x86\Release\Process_Manager.FrmMain.resources
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\obj\x86\Release\Process_Manager.Resources.resources
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\obj\x86\Release\Process Manager.vbproj.GenerateResource.Cache
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\obj\x86\Release\Process Manager.exe
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\obj\x86\Release\Process Manager.xml
+C:\Users\12\Desktop\OMAR_IRAQ\Process Manager\Process Manager\obj\x86\Release\Process Manager.pdb
